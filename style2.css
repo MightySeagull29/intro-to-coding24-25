@@ -1,0 +1,23 @@
+.disclaimer {
+    font-size: x-small;
+    color: lightgray;
+}
+
+body {
+    background-image: url("ea_logo.jpg");
+    background-repeat: no-repeat;
+    background-size: 1300px 800px;
+}
+
+a {
+    color: yellow;
+}
+
+footer {
+    padding-top: 500px;
+}
+
+p {
+    color: black;
+    background-color: lightgray;
+}
